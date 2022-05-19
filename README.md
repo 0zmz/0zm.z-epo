@@ -1,3 +1,3 @@
 # Ameer
 
-some discription
+Some disciption
